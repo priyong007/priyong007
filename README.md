@@ -1,13 +1,10 @@
 <p align="center">
-  <img src="banner.png" alt="Tharima Sultana Keya 
-banner.png" width="100%">
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tharimakeya-dev/tharimakeya-dev/main/bismillah.svg" alt="Bismillah" />
+  <img src="banner.png" alt="Priyongkar Chakma banner.png" width="100%">
 </p>
 
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=34&duration=4000&pause=800&color=9333EA&center=true&vCenter=true&width=700&height=70&lines=%F0%9F%91%8B+Hi,+I'm+Tharima+Sultana+Keya" alt="Hi, I'm Tharima Sultana Keya" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=34&duration=4000&pause=800&color=9333EA&center=true&vCenter=true&width=700&height=70&lines=%F0%9F%91%8B+Hi,+I'm+Priyongkar+Chakma" alt="Hi, I'm Priyongkar Chakma" />
 </p>
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -17,7 +14,7 @@ banner.png" width="100%">
 
 ## 👩‍💻 About Me
 
-I'm **Tharima Sultana Keya**, a passionate aspiring **FULL Stack  Developer** who enjoys turning ideas into functional, scalable and user-friendly web applications.
+I'm **Priyongkar Chakma**, a passionate aspiring **FULL Stack Developer** who enjoys turning ideas into functional, scalable and user-friendly web applications.
 
 I'm currently focused on strengthening my frontend development skills through building real-world projects and improving my problem-solving abilities.
 
@@ -27,10 +24,10 @@ I'm currently focused on strengthening my frontend development skills through bu
 - 🛠️ Building real-world projects to improve my development skills
 - 💡 Interested in creating clean, responsive and user-friendly websites
 - 🎯 My goal is to become a professional **Full Stack Web Developer**
-- 🤝 Open to learning, collaboration and new opportunitie
-<p align="center">
+- 🤝 Open to learning, collaboration and new opportunities
+<!-- <p align="center">
   <img src="ascii_art_2.svg" alt="ASCII Art" width="500">
-</p>
+</p> -->
 
 ## 🛠️ Skills in Technologies
 **Languages:**
@@ -62,9 +59,9 @@ I'm currently focused on strengthening my frontend development skills through bu
 <img src="https://skillicons.dev/icons?i=windows,ubuntu,notion,git,github,vscode,postman,docker" />
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="./cute.png" width="200" alt="avatar" />
-</p>
+</p> -->
 
 ## Stack :
 
@@ -73,7 +70,7 @@ I'm currently focused on strengthening my frontend development skills through bu
 
 ## 💡 My Focus Areas
 
-   🌐**Full-Stack Web Development (MERN)**
+    🌐**Full-Stack Web Development (MERN)**
 
 - 🎨 **Frontend:** React.js, Next.js, TypeScript
 - ⚡ **Language:** JavaScript (ES6+), TypeScript
@@ -84,9 +81,7 @@ I'm currently focused on strengthening my frontend development skills through bu
 - 🚀 **Deployment:** Vercel, Render
 - 🤖 **Currently Exploring:** AI / ML
 
-<p align="center">
-  <img src="Screenshot_2.png" width="250" style="border-radius:50%"/>
-</p>
+
   
 ## 📌 Featured Projects
 
@@ -99,27 +94,25 @@ Tech: React • JavaScript • Tailwind CSS
 
 <h2><b>📍 Social links for Contact</b></h2>
 
- 🇧🇩 **Location:** Bangladesh
+  🇧🇩 **Location:** Bangladesh
 
-<a href="https://x.com/TahrimaKeya">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="32" height="32" alt="Twitter" />
+<a href="https://github.com/priyong007">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" height="32" alt="GitHub" />
 </a>
-<a href="https://www.linkedin.com/in/tharima-sultana-keya">
+<a href="https://www.linkedin.com/in/priyongkar-chakma/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" height="32" alt="LinkedIn" />
 </a>
-<a href="https://www.facebook.com/tahrimasuzeankeya" target="_blank">
+<a href="https://www.facebook.com/changma.priyong" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="32" height="32" alt="Facebook" />
 </a>
-<a href="https://www.instagram.com/tahrimasuzeankeya"><img src="https://cdn.simpleicons.org/instagram/E4405F" height="30" alt="Instagram"></a>
-<a href="https://www.youtube.com/@keyascreativity12"><img src="https://cdn.simpleicons.org/youtube/FF0000" height="30" alt="YouTube"></a>
 <br><br>
 
 # 🎨 Where Code Meets Creativity
 
 Here's a web development version in the same style:
 "Code is the new canvas, but user experience is the brush that brings ideas to life."
-Core Values: Clean Code • Creativity • Collaboration • Continuous Learning's it tweaked for a different tone (more technical, more corporate, or more playful. I can also make a few alternative quotes if you'd like to choose from them. 
- .<p align="center">
+Core Values: Clean Code • Creativity • Collaboration • Continuous Learning.
+  .<p align="center">
 <img src="./cat.gif" width="300" alt="Cat coding animation" />
 </p>
 <p align="center">
@@ -128,22 +121,22 @@ Core Values: Clean Code • Creativity • Collaboration • Continuous Learning
 <h2><b>🔥 GitHub Streak</b></h2>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tharimakeya-dev&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=priyong007&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tharimakeya-dev&theme=tokyonight" alt="Top Languages by Commit" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=priyong007&theme=tokyonight" alt="Top Languages by Commit" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=tharimakeya-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=priyong007&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 
 <h2><b>🌐 Connect With Me</b></h2>
 
 <p>
-  <a href="https://github.com/tharimakeya-dev"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=tahrimakeya22@gmail.com"><img src="https://img.shields.io/badge/Gmail-tahrimakeya22%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white&labelColor=0B6623" alt="Gmail"></a>
+  <a href="https://github.com/priyong007"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=priyong.chakma@gmail.com"><img src="https://img.shields.io/badge/Gmail-priyong.chakma%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white&labelColor=0B6623" alt="Gmail"></a>
 </p>
 
 🌍 Portfolio Website: Coming Soon!
@@ -217,30 +210,5 @@ flowchart TB
     style F fill:#d81b60,stroke:#880e4f,stroke-width:2px,color:#ffffff
     style G fill:#8e24aa,stroke:#4a148c,stroke-width:2px,color:#ffffff
     style H fill:#00897b,stroke:#004d40,stroke-width:2px,color:#ffffff
-```
 
 
-
-## 🏆 **Target Certifications**
-
-- 🍃 **MongoDB Associate Developer**
-- ☁️ **AWS Certified Cloud Practitioner → Developer Associate**
-- 🟢 **OpenJS Node.js Services Developer (JSNSD)**
-- ⚛️ **Meta Front-End / React Specialization (Coursera)**
-- 🐳 **Docker Foundations**
-
-<p align="center">
-<img src="thanks.svg" width="100%" alt="Thanks for visiting my profile" />
-</p>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/tharimakeya-dev/REPO/main/like-banner.svg" alt="If you like my work, consider giving a ⭐ to the repositories you find useful." />
-</div>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tharimakeya-dev/tharimakeya-dev/main/keya-banner.svg" alt="KEYA" width="600">
-</p>
-
-<img align="right" src="./panda.svg" width="180" alt="Smiling panda" />
-
-### ✍️ Random Dev Quote
-
-![Dev Quote](quote.svg)
