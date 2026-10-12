@@ -1,64 +1,246 @@
-## Hi there 👋
+<p align="center">
+  <img src="banner.png" alt="Tharima Sultana Keya 
+banner.png" width="100%">
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tharimakeya-dev/tharimakeya-dev/main/bismillah.svg" alt="Bismillah" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=34&duration=4000&pause=800&color=9333EA&center=true&vCenter=true&width=700&height=70&lines=%F0%9F%91%8B+Hi,+I'm+Tharima+Sultana+Keya" alt="Hi, I'm Tharima Sultana Keya" />
+</p>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&height=50&lines=FULL+Stack+web+Developer" alt="Typing SVG" />
+  </a>
 
 
-**priyong007/priyong007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 About Me
 
-<h1 align="left">I'm Priyongkar Chakma</h1>  
-### 🔭 I build things with JavaScript, React, NextJs and Node.js
+I'm **Tharima Sultana Keya**, a passionate aspiring **FULL Stack  Developer** who enjoys turning ideas into functional, scalable and user-friendly web applications.
 
----
+I'm currently focused on strengthening my frontend development skills through building real-world projects and improving my problem-solving abilities.
 
-## 👨💻 About Me  
-I'm a passionate full-stack developer who enjoys building modern, high-performance web applications. I love working with **JavaScript**, **TypeScript**, **React**, **NextJs**, **Node.js** and **Mongodb**, and I'm always exploring new tools to improve my workflow.  
-Currently, I'm focused on expanding my knowledge in **RESTAPI** and **Docker** while working on exciting real-world projects. Feel free to reach out if you want to talk about **web development**, open-source, or cool tech ideas!
+- 🌱 I'm currently learning **Full Stack Web Development**
+- ⚛️ Exploring **React.js** and primarily focusing on frontend development
+- 🚀 Exploring **Next.js**
+- 🛠️ Building real-world projects to improve my development skills
+- 💡 Interested in creating clean, responsive and user-friendly websites
+- 🎯 My goal is to become a professional **Full Stack Web Developer**
+- 🤝 Open to learning, collaboration and new opportunitie
+<p align="center">
+  <img src="ascii_art_2.svg" alt="ASCII Art" width="500">
+</p>
 
----
+## 🛠️ Skills in Technologies
+**Languages:**
 
-## 🛠️ Tech Stack  
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,graphql,py" />
 
-### **Frontend**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3) ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge\&logo=tailwindcss) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript)
+**CSS Frameworks & Libraries:**
+
+<img src="https://skillicons.dev/icons?i=tailwind,mui,bootstrap" />
+
+**JavaScript Frameworks & Libraries:**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,nodejs,express" />
+
+**Database & Model:**
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma,supabase" />
+
+**Deployment Platform:**
+
+<img src="https://skillicons.dev/icons?i=vercel,netlify,firebase" />
+
+**Design & Graphics:**
+
+<img src="https://skillicons.dev/icons?i=figma,ai,ps" />
+
+**Tools & Technologies:**
+
+<img src="https://skillicons.dev/icons?i=windows,ubuntu,notion,git,github,vscode,postman,docker" />
 
 
-### **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+<p align="center">
+  <img src="./cute.png" width="200" alt="avatar" />
+</p>
 
-### **Tools & Others**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+## Stack :
 
----
+![JS Stack](js.gif)
+
+
+## 💡 My Focus Areas
+
+   🌐**Full-Stack Web Development (MERN)**
+
+- 🎨 **Frontend:** React.js, Next.js, TypeScript
+- ⚡ **Language:** JavaScript (ES6+), TypeScript
+- 🛠️ **Backend:** Node.js, Express.js, REST APIs
+- 🍃 **Database:** MongoDB, Mongoose
+- 🔐 **Auth & Security:** JWT, bcrypt, validation
+- 🧰 **Tools:** Git, GitHub, Postman, Docker (basic)
+- 🚀 **Deployment:** Vercel, Render
+- 🤖 **Currently Exploring:** AI / ML
+
+<p align="center">
+  <img src="Screenshot_2.png" width="250" style="border-radius:50%"/>
+</p>
+  
+## 📌 Featured Projects
+
+### 🛍️ E-Commerce Website
+
+<p style="font-weight: bold; color: #0b2a8a;">
+  A responsive e-commerce website built with modern frontend technologies.
+</p>
+Tech: React • JavaScript • Tailwind CSS
+
+<h2><b>📍 Social links for Contact</b></h2>
+
+ 🇧🇩 **Location:** Bangladesh
+
+<a href="https://x.com/TahrimaKeya">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="32" height="32" alt="Twitter" />
+</a>
+<a href="https://www.linkedin.com/in/tharima-sultana-keya">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" height="32" alt="LinkedIn" />
+</a>
+<a href="https://www.facebook.com/tahrimasuzeankeya" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="32" height="32" alt="Facebook" />
+</a>
+<a href="https://www.instagram.com/tahrimasuzeankeya"><img src="https://cdn.simpleicons.org/instagram/E4405F" height="30" alt="Instagram"></a>
+<a href="https://www.youtube.com/@keyascreativity12"><img src="https://cdn.simpleicons.org/youtube/FF0000" height="30" alt="YouTube"></a>
+<br><br>
+
+# 🎨 Where Code Meets Creativity
+
+Here's a web development version in the same style:
+"Code is the new canvas, but user experience is the brush that brings ideas to life."
+Core Values: Clean Code • Creativity • Collaboration • Continuous Learning's it tweaked for a different tone (more technical, more corporate, or more playful. I can also make a few alternative quotes if you'd like to choose from them. 
+ .<p align="center">
+<img src="./cat.gif" width="300" alt="Cat coding animation" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tharimakeya-dev/tharimakeya-dev/main/shimmer.svg" alt="Code. Build. Solve. Repeat." />
+</p>
+<h2><b>🔥 GitHub Streak</b></h2>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tharimakeya-dev&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tharimakeya-dev&theme=tokyonight" alt="Top Languages by Commit" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=tharimakeya-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+
+<h2><b>🌐 Connect With Me</b></h2>
+
+<p>
+  <a href="https://github.com/tharimakeya-dev"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=tahrimakeya22@gmail.com"><img src="https://img.shields.io/badge/Gmail-tahrimakeya22%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white&labelColor=0B6623" alt="Gmail"></a>
+</p>
+
+🌍 Portfolio Website: Coming Soon!
+
+## 📊 TECHNOLOGY STACK DASHBOARD
+
+### 🎯 CORE WEB TECHNOLOGIES
+
+<div align="center">
+
+| Category | Technologies | Proficiency |
+|:--------:|:------------:|:-----------:|
+| $\color{#8A2BE2}{\textbf{Frontend}}$ | React.js, Next.js, TypeScript, Tailwind CSS | ![Proficiency](https://img.shields.io/badge/Proficiency-95%25-4169E1?labelColor=9B111E) |
+| $\color{#8A2BE2}{\textbf{Backend}}$ | Node.js, Express.js, Golang, REST APIs | ![Proficiency](https://img.shields.io/badge/Proficiency-90%25-4169E1?labelColor=9B111E) |
+| $\color{#8A2BE2}{\textbf{Database}}$ | MongoDB, PostgreSQL, Prisma ORM, Mongoose | ![Proficiency](https://img.shields.io/badge/Proficiency-90%25-4169E1?labelColor=9B111E) |
+| $\color{#8A2BE2}{\textbf{DevOps}}$ | Docker, Nginx, CI/CD, AWS, Firebase | ![Proficiency](https://img.shields.io/badge/Proficiency-85%25-4169E1?labelColor=9B111E) |
+| $\color{#8A2BE2}{\textbf{AI Tools}}$ | Gemini AI, Jasper AI, OpenAI API, AI Automation | ![Proficiency](https://img.shields.io/badge/Proficiency-80%25-4169E1?labelColor=9B111E) |
+
+</div>
+
+
+
+## 🏆 **Target Certifications**
+
+- 🍃 MongoDB Associate Developer
+- ☁️ AWS Certified Cloud Practitioner → Developer Associate
+- 🟢 OpenJS Node.js Services Developer (JSNSD)
+- ⚛️ Meta Front-End / React Specialization (Coursera)
+- 🐳 Docker Foundations 
+
  
+## 📊 SKILL METRICS & PROGRESS
 
-## 🌐 Connect With Me
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/priyongkar-chakma/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge\&logo=twitter)](https://x.com/PriyongkarC) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail)](mailto:priyong.chakma@gmail.com)
+| Skill Category | Current Level | Projects Completed | Target Mastery |
+|:--------------:|:-------------:|:------------------:|:--------------:|
+| **React & Frontend** | 🟢 Advanced | 15+ | ⭐ Expert |
+| **Node.js & Backend** | 🟢 Advanced | 12+ | ⭐ Expert |
+| **Database Design** | 🟡 Intermediate+ | 10+ | 🟢 Advanced |
+| **DevOps & Deployment** | 🟡 Intermediate+ | 8+ | 🟢 Advanced |
+| **AI Integration** | 🟡 Intermediate | 5+ | 🟡 Intermediate+ |
+| **Cybersecurity** | 🟡 Intermediate | 6+ | 🟢 Advanced |
 
----
+</div>
 
-## 📊 GitHub Stats  
+## 📚 LEARNING PATH
 
-| GitHub Stats | Most Used Languages |
-| :---: | :---: |
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=default) |
+```mermaid
+flowchart TB
+    subgraph R1[" "]
+        direction LR
+        A["1️⃣ Core Web<br/>Fundamentals"] --> B["2️⃣ Frontend<br/>Development"] --> C["3️⃣ Backend<br/>Development"] --> D["4️⃣ Database<br/>& APIs"]
+    end
 
----
+    subgraph R2[" "]
+        direction LR
+        E["5️⃣ DevOps &<br/>Deployment"] --> F["6️⃣ AI<br/>Integration"] --> G["7️⃣ Cyber<br/>security"] --> H["8️⃣ Certified<br/>Full-Stack Dev"]
+    end
 
-![Profile views](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+    R1 --> R2
+
+    style R1 fill:none,stroke:none
+    style R2 fill:none,stroke:none
+
+    style A fill:#e53935,stroke:#b71c1c,stroke-width:2px,color:#ffffff
+    style B fill:#1e88e5,stroke:#0d47a1,stroke-width:2px,color:#ffffff
+    style C fill:#43a047,stroke:#1b5e20,stroke-width:2px,color:#ffffff
+    style D fill:#7cb342,stroke:#33691e,stroke-width:2px,color:#ffffff
+    style E fill:#fb8c00,stroke:#e65100,stroke-width:2px,color:#ffffff
+    style F fill:#d81b60,stroke:#880e4f,stroke-width:2px,color:#ffffff
+    style G fill:#8e24aa,stroke:#4a148c,stroke-width:2px,color:#ffffff
+    style H fill:#00897b,stroke:#004d40,stroke-width:2px,color:#ffffff
+```
 
 
 
+## 🏆 **Target Certifications**
 
-Here are some ideas to get you started:
+- 🍃 **MongoDB Associate Developer**
+- ☁️ **AWS Certified Cloud Practitioner → Developer Associate**
+- 🟢 **OpenJS Node.js Services Developer (JSNSD)**
+- ⚛️ **Meta Front-End / React Specialization (Coursera)**
+- 🐳 **Docker Foundations**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<p align="center">
+<img src="thanks.svg" width="100%" alt="Thanks for visiting my profile" />
+</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/tharimakeya-dev/REPO/main/like-banner.svg" alt="If you like my work, consider giving a ⭐ to the repositories you find useful." />
+</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tharimakeya-dev/tharimakeya-dev/main/keya-banner.svg" alt="KEYA" width="600">
+</p>
+
+<img align="right" src="./panda.svg" width="180" alt="Smiling panda" />
+
+### ✍️ Random Dev Quote
+
+![Dev Quote](quote.svg)
